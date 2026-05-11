@@ -1,4 +1,4 @@
-# RAMP: Reliability, Assessment, Measurement Platform
+# RAMP: Rely Ability Management Platform
 
 **The central knowledge repository for the RAMP ecosystem**
 
